@@ -1,4 +1,4 @@
 shard-redis
 ===========
 
-c++ class used for consistent hashing sharding hiredis redisContexts
+c++ class used for consistent hash sharding of hiredis redisContexts
